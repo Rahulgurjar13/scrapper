@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+motor
+pymongo
+curl_cffi
+beautifulsoup4
+lxml
+python-dotenv
+pydantic
+pydantic-settings
+websockets
